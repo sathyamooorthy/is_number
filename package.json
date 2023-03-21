@@ -1,0 +1,16 @@
+{
+  "name": "is_number",
+  "version": "1.0.0",
+  "description": "this package will help us to find given string is number or not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "input",
+    "Number",
+    "userData"
+  ],
+  "author": "Sathya3889",
+  "license": "ISC"
+}
